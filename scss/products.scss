@@ -1,0 +1,28 @@
+.imageRow{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+    img{
+        width: 247px;
+        height: 100%;
+    }
+}
+
+.textRow{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 120px;
+
+    p{
+        width: 12%;
+        color: white;
+    }
+}
